@@ -8,7 +8,7 @@ import { bootstrapApplication } from '@angular/platform-browser';
   standalone: true,
   imports: [CommonModule],
   template: `
-    Simple angular app
+    Simple angular app 2
   `,
 })
 export class App {
